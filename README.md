@@ -1,72 +1,61 @@
 <!-- Profile README for github.com/NPFernando -->
 
 <h1 align="center">Naveen Fernando</h1>
-<h3 align="center">Automation & Systems Engineer | Python · Rewst · n8n · Cloud (Azure / AWS / GCP)</h3>
+<h3 align="center">Automation & Systems Engineer · Python · Rewst · n8n · Cloud (Azure / AWS / GCP)</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/naveen-fernando" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:fernandonaveen2000@gmail.com"><img src="https://img.shields.io/badge/Email-fernandonaveen2000%40gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/NPFernando?tab=repositories"><img src="https://img.shields.io/badge/Repos-Explore-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories" /></a>
+</p>
 
 ---
 
-### About
+### TL;DR
 
-I am an Automation and Systems Engineer focused on building reliable, scalable workflows across MSP and cloud environments.  
-My main tools are Python, Rewst, n8n, PowerShell, and cloud services on Azure, AWS, and Google Cloud.
-
-I like turning repetitive, error-prone processes into clean, observable automations:  
-user lifecycle, ticketing, device/identity management, reporting, and internal dashboards.
-
-- 🎓 B.Sc. in Computer Systems & Networking (Curtin University)
-- 🔁 End-to-end automation: discovery → scoping → design → build → test → deploy → optimize
-- 👥 Growing experience in technical leadership, task delegation, and pre-sales discovery
-- 📍 Based in Sri Lanka
+- I build reliable, observable automation for MSP and cloud teams.
+- Python + Rewst + n8n are my happy place; PowerShell when the stack demands it.
+- I like dashboards that make operations obvious: who's stuck, what's failing, what to fix first.
+- Based in Sri Lanka and open to remote collaboration.
 
 ---
 
-### Current Focus
+### What I'm focusing on right now
 
-- Multi-tenant automation for MSP scenarios (Rewst, n8n)
-- Python tooling and Streamlit dashboards for operations visibility
+- Multi-tenant automation patterns for MSP workflows (Rewst, n8n)
+- Streamlit dashboards that aggregate RMM, identity, and ticket data
 - Cloud automation across Azure, AWS, and Google Cloud
-- API integrations and event-driven workflows
-- Hardening reliability, logging, and error handling in automations
+- Building guardrails: logging, error handling, and "safe defaults" in automations
 
 ---
 
-### Tech Stack
+### Playbook
 
-#### Automation & Orchestration
-- Rewst · n8n · PowerShell · Python · Jinja
-- Workflow orchestration, API integration, event-driven jobs
-
-#### Cloud & Platforms
-- Microsoft Azure (Functions, Automation, AAD)
-- AWS (Lambda, EventBridge, S3, IAM basics)
-- Google Cloud (IAM, APIs, automation use cases)
-
-#### Web / Apps / Dashboards
-- Python · Streamlit
-- JavaScript / TypeScript basics
-- REST APIs, JSON, webhooks
-
-#### Other
-- Linux, Docker
-- Ticketing & MSP tooling
-- Monitoring, logging, and troubleshooting
+1. **Discovery → Scoping**: map systems, owners, and failure modes.
+2. **Design → Build**: API integrations, event-driven workflows, and repeatable templates.
+3. **Test → Deploy**: staged rollouts with alerts and meaningful logs.
+4. **Optimize → Document**: measure friction, remove toil, and keep runbooks current.
 
 ---
 
-### Selected Areas of Work
+### Selected projects
 
-- **MSP Automation Workflows**  
-  End-to-end workflows for user onboarding/offboarding, license hygiene, and ticket automation using Rewst and n8n.
-
-- **Streamlit Ops Dashboards**  
-  Internal dashboards aggregating data from APIs (M365, RMM, ticketing) for support and management teams.
-
-- **Cloud Automation Scripts**  
-  Small utilities and scripts to glue together Azure/AWS/GCP services, identity, and devices.
+- **MSP Automation Workflows** — End-to-end user onboarding/offboarding, license hygiene, and ticket automation using Rewst and n8n.
+- **Ops Dashboards** — Streamlit views that combine M365, RMM, and ticketing data for support and leadership teams.
+- **Cloud Automation Scripts** — Utilities that connect Azure/AWS/GCP services with identity and device management flows.
 
 ---
 
-### GitHub Stats
+### Tech stack (at a glance)
+
+**Automation & Orchestration**: Rewst · n8n · PowerShell · Python · Jinja  
+**Cloud & Platforms**: Azure (Functions, Automation, AAD) · AWS (Lambda, EventBridge, S3) · Google Cloud (IAM, APIs)  
+**Dashboards / Apps**: Python · Streamlit · REST APIs · JSON · Webhooks  
+**Ops**: Linux · Docker · Ticketing & MSP tooling · Monitoring & logging
+
+---
+
+### GitHub activity
 
 <p align="left">
   <img
@@ -83,9 +72,8 @@ user lifecycle, ticketing, device/identity management, reporting, and internal d
 
 ---
 
-### Contact
+### Connect
 
-- LinkedIn: [linkedin.com/in/naveen-fernando](www.linkedin.com/in/naveen-fernando) <!-- update this -->
+- LinkedIn: [linkedin.com/in/naveen-fernando](https://www.linkedin.com/in/naveen-fernando)
 - Email: **fernandonaveen2000@gmail.com**
-
-If you work with automation, MSP tooling, or cloud workflows and want to compare ideas or collaborate, feel free to reach out.
+- If you work with automation, MSP tooling, or cloud workflows and want to compare ideas or collaborate, say hi.
