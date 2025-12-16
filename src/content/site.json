@@ -1,0 +1,44 @@
+{
+  "hero": {
+    "name": "Naveen Fernando",
+    "role": "Automation & Systems Engineer",
+    "focusAreas": ["Cloud Architecture", "Automation", "AI-assisted Ops"],
+    "proposition": "I design reliable, observable automation with cloud-native guardrails so teams can scale without surprises.",
+    "ctas": [
+      { "label": "View Projects", "href": "#projects", "variant": "primary" },
+      { "label": "Download Resume", "href": "#contact", "variant": "ghost" }
+    ]
+  },
+  "about": {
+    "summary": "I build automation that pairs static-first delivery with serverless flexibility so MSP and cloud teams move faster.",
+    "philosophy": "Ship composable building blocks, observe everything, and choose defaults that keep operators safe.",
+    "approach": "Start with static assets on Azure Static Web Apps, layer in Functions for controlled change, and document trade-offs early."
+  },
+  "skills": [],
+  "projects": [],
+  "learning": [],
+  "futureReady": [
+    {
+      "title": "Serverless-ready architecture",
+      "description": "UI is static-exported via Vite, with routing and data fetching ready to point at Azure Functions when needed."
+    },
+    {
+      "title": "Identity-aware by design",
+      "description": "Navigation and component boundaries anticipate Microsoft Entra ID-protected APIs without blocking anonymous viewing."
+    },
+    {
+      "title": "Data-driven content",
+      "description": "All content is typed JSON validated with Zod; switching to headless CMS or storage-backed feeds is straightforward."
+    },
+    {
+      "title": "Feature-flag friendly",
+      "description": "Constants and sections support static feature flags to toggle experiments without redeploying Functions."
+    }
+  ],
+  "contacts": {
+    "github": "https://github.com/NPFernando",
+    "linkedin": "https://www.linkedin.com/in/naveen-fernando",
+    "email": "fernandonaveen2000@gmail.com",
+    "resume": "https://example.com/resume.pdf"
+  }
+}

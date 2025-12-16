@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Static-first MSP Automation Hub",
+    "problem": "MSP teams needed a reliable way to launch automation runbooks without maintaining servers.",
+    "architecture": "Azure Static Web Apps front-end, Azure Functions for secure API triggers, GitHub Actions for CI/CD.",
+    "tools": ["React", "Azure Static Web Apps", "Azure Functions", "GitHub Actions"],
+    "tradeoffs": "Chose static delivery for reliability and cost; deferred database until telemetry proved the need.",
+    "status": "Shipping internally with feature-flagged workflows."
+  },
+  {
+    "title": "Operations Observability Dashboard",
+    "problem": "Support leads lacked visibility into automation health across tenants.",
+    "architecture": "Streamlit UI backed by API aggregations; logs centralized via structured JSON events.",
+    "tools": ["Python", "Streamlit", "Grafana", "Rewst"],
+    "tradeoffs": "Accepted nightly batch updates initially to ship faster; moving toward event-driven feeds.",
+    "status": "Live with iterative alert tuning."
+  },
+  {
+    "title": "Identity-driven On/Offboarding",
+    "problem": "New hires and leavers required consistent identity + device actions across vendors.",
+    "architecture": "n8n orchestrations calling Microsoft Graph, MDM, and ticket APIs with guardrails.",
+    "tools": ["n8n", "Microsoft Graph", "PowerShell", "Azure Automation"],
+    "tradeoffs": "Balanced speed and safety using scoped credentials and staged rollouts.",
+    "status": "Stable with continuous playbook updates."
+  }
+]

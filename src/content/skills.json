@@ -1,0 +1,92 @@
+[
+  {
+    "capability": "Cloud Architecture",
+    "items": [
+      {
+        "name": "Azure Static Web Apps & Functions",
+        "proficiency": "advanced",
+        "context": "Designed static-first frontends with optional serverless APIs and managed CI/CD."
+      },
+      {
+        "name": "Multi-cloud Patterns",
+        "proficiency": "working",
+        "context": "Ported automation workflows between Azure, AWS Lambda, and Google Cloud Run."
+      }
+    ]
+  },
+  {
+    "capability": "Automation Platforms",
+    "items": [
+      {
+        "name": "Rewst & n8n",
+        "proficiency": "expert",
+        "context": "Built reusable MSP workflows with error handling, observability, and tenancy-aware controls."
+      },
+      {
+        "name": "Python & PowerShell",
+        "proficiency": "advanced",
+        "context": "CLI utilities and task runners for onboarding/offboarding and infrastructure hygiene."
+      }
+    ]
+  },
+  {
+    "capability": "APIs & Integration",
+    "items": [
+      {
+        "name": "REST & Webhooks",
+        "proficiency": "advanced",
+        "context": "Integrated ticketing, identity, and device data with secure token handling and retries."
+      },
+      {
+        "name": "Graph & Admin APIs",
+        "proficiency": "working",
+        "context": "Operationalized Microsoft 365 automations with scoped permissions and audit trails."
+      }
+    ]
+  },
+  {
+    "capability": "Data & Storage",
+    "items": [
+      {
+        "name": "Object Storage",
+        "proficiency": "working",
+        "context": "Used Azure Blob and S3 for automation artifacts with lifecycle policies."
+      },
+      {
+        "name": "Operational Data",
+        "proficiency": "exploring",
+        "context": "Experimenting with lightweight SQLite/pg for workflow state and metrics."
+      }
+    ]
+  },
+  {
+    "capability": "CI/CD & DevOps",
+    "items": [
+      {
+        "name": "GitHub Actions",
+        "proficiency": "advanced",
+        "context": "Reusable workflows for static sites, Python automations, and environment validation."
+      },
+      {
+        "name": "Observability",
+        "proficiency": "working",
+        "context": "Structured logs, failure notifications, and dashboard-first reporting for operators."
+      }
+    ]
+  },
+  {
+    "capability": "AI / LLM Integration",
+    "items": [
+      {
+        "name": "Prompt Engineering",
+        "proficiency": "working",
+        "context": "Rapid prototyping of copilots that summarize operations data and recommend actions."
+      },
+      {
+        "name": "Automation Assistants",
+        "proficiency": "exploring",
+        "context": "Evaluating retrieval pipelines and policy controls for MSP knowledge bases."
+      }
+    ]
+  }
+]

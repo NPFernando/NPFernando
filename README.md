@@ -1,79 +1,45 @@
-<!-- Profile README for github.com/NPFernando -->
+# Future-Proof Personal Portfolio
 
-<h1 align="center">Naveen Fernando</h1>
-<h3 align="center">Automation & Systems Engineer · Python · Rewst · n8n · Cloud (Azure / AWS / GCP)</h3>
+A static-first, Azure Static Web Apps-ready portfolio built with Vite, React, TypeScript, and Tailwind CSS. Content is JSON-driven and validated with Zod to keep future API or CMS integrations straightforward. The site emphasizes accessibility, performance, and cloud-native deployability.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/naveen-fernando" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:fernandonaveen2000@gmail.com"><img src="https://img.shields.io/badge/Email-fernandonaveen2000%40gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/NPFernando?tab=repositories"><img src="https://img.shields.io/badge/Repos-Explore-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories" /></a>
-</p>
+## Architecture
+- **Static-first delivery**: Vite build outputs pre-rendered assets suitable for Azure Static Web Apps, with navigation fallback configured in `staticwebapp.config.json`.
+- **Typed content layer**: JSON in `src/content/` is validated by Zod schemas (`src/lib/schema.ts`) to ensure predictable data when scaling to APIs or headless CMS.
+- **Design system**: Reusable layout components (`Header`, `Section`, `Card`, `ButtonLink`) and Tailwind-powered theming with CSS variables for light/dark support.
+- **Future-ready hooks**: Feature flag constants anticipate Azure Functions-backed APIs and Entra ID-protected views without blocking static rendering.
+- **Accessibility-first**: Semantic sections, ARIA labels, and keyboard-friendly navigation baked into components.
 
----
+## Project structure
+```
+src/
+ ├── components/        # Reusable UI building blocks
+ ├── pages/             # Page-level composition (Home)
+ ├── content/           # JSON content (skills, projects, learning, site metadata)
+ ├── styles/            # Global Tailwind and theme tokens
+ ├── lib/               # Zod schemas, constants
+ └── main.tsx           # App entry
+```
 
-### TL;DR
+## Local development
+```bash
+npm install
+npm run dev
+```
+Visit `http://localhost:5173`.
 
-- I build reliable, observable automation for MSP and cloud teams.
-- Python + Rewst + n8n are my happy place; PowerShell when the stack demands it.
-- I like dashboards that make operations obvious: who's stuck, what's failing, what to fix first.
-- Based in Sri Lanka and open to remote collaboration.
+### Quality checks
+```bash
+npm run lint
+npm run build
+```
 
----
+## Deployment (Azure Static Web Apps)
+- CI/CD via `.github/workflows/azure-static-web-app.yml` builds on pushes to `main` and deploys with `AZURE_STATIC_WEB_APPS_API_TOKEN`.
+- Output directory: `dist`.
+- Navigation fallback and security headers defined in `staticwebapp.config.json`.
+- PRs automatically create/close preview environments.
 
-### What I'm focusing on right now
-
-- Multi-tenant automation patterns for MSP workflows (Rewst, n8n)
-- Streamlit dashboards that aggregate RMM, identity, and ticket data
-- Cloud automation across Azure, AWS, and Google Cloud
-- Building guardrails: logging, error handling, and "safe defaults" in automations
-
----
-
-### Playbook
-
-1. **Discovery → Scoping**: map systems, owners, and failure modes.
-2. **Design → Build**: API integrations, event-driven workflows, and repeatable templates.
-3. **Test → Deploy**: staged rollouts with alerts and meaningful logs.
-4. **Optimize → Document**: measure friction, remove toil, and keep runbooks current.
-
----
-
-### Selected projects
-
-- **MSP Automation Workflows** — End-to-end user onboarding/offboarding, license hygiene, and ticket automation using Rewst and n8n.
-- **Ops Dashboards** — Streamlit views that combine M365, RMM, and ticketing data for support and leadership teams.
-- **Cloud Automation Scripts** — Utilities that connect Azure/AWS/GCP services with identity and device management flows.
-
----
-
-### Tech stack (at a glance)
-
-**Automation & Orchestration**: Rewst · n8n · PowerShell · Python · Jinja  
-**Cloud & Platforms**: Azure (Functions, Automation, AAD) · AWS (Lambda, EventBridge, S3) · Google Cloud (IAM, APIs)  
-**Dashboards / Apps**: Python · Streamlit · REST APIs · JSON · Webhooks  
-**Ops**: Linux · Docker · Ticketing & MSP tooling · Monitoring & logging
-
----
-
-### GitHub activity
-
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=NPFernando&show_icons=true&theme=github_dark&hide_border=true"
-    alt="GitHub Stats for NPFernando"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NPFernando&layout=compact&theme=github_dark&hide_border=true"
-    alt="Top Languages for NPFernando"
-    height="160"
-  />
-</p>
-
----
-
-### Connect
-
-- LinkedIn: [linkedin.com/in/naveen-fernando](https://www.linkedin.com/in/naveen-fernando)
-- Email: **fernandonaveen2000@gmail.com**
-- If you work with automation, MSP tooling, or cloud workflows and want to compare ideas or collaborate, say hi.
+## Future extensions
+- Connect content to Azure Functions or Storage and reuse Zod schemas for runtime validation.
+- Add Entra ID authentication for gated dashboards while keeping public sections static.
+- Introduce feature flags backed by configuration storage for runtime toggles without redeploying the UI.

@@ -1,0 +1,20 @@
+[
+  {
+    "track": "Azure Solutions Architect",
+    "focus": "Cost-aware architectures, Static Web Apps patterns, and resilient Functions APIs",
+    "status": "active",
+    "timeline": "Q1–Q2"
+  },
+  {
+    "track": "LLM Guardrails",
+    "focus": "Policy-driven retrieval and safe action execution for automation assistants",
+    "status": "planned",
+    "timeline": "Q3"
+  },
+  {
+    "track": "GitHub Actions Advanced",
+    "focus": "Reusable workflows, OpenID Connect deployments, and matrix testing",
+    "status": "completed",
+    "timeline": "Continuous"
+  }
+]
