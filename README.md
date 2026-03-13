@@ -1,6 +1,6 @@
 <!-- Profile README for github.com/NPFernando -->
 
-<h1 align="center">Naveen Fernando</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:4285F4&height=120&section=header&text=Naveen%20Fernando&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Automation%20%26%20Systems%20Engineer&descSize=16&descAlignY=58&descColor=d0e8ff" alt="Header banner" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Automation+%26+Systems+Engineer;Python+%7C+Rewst+%7C+n8n+%7C+Cloud;Building+reliable%2C+observable+automations" alt="Typing animation" />
@@ -55,6 +55,19 @@
 
 ---
 
+### Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/Clean_Automation_Certified-Automation_Engineer-6A0DAD?style=flat-square&logo=checkmarx&logoColor=white" alt="Clean Automation Certified: Automation Engineer"/>
+  <img src="https://img.shields.io/badge/Foundations_Certified-Automation_Practitioner-6A0DAD?style=flat-square&logo=checkmarx&logoColor=white" alt="Foundations Certified: Automation Practitioner"/>
+  <img src="https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure Fundamentals AZ-900"/>
+  <img src="https://img.shields.io/badge/Fortinet_NSE_1-EE3124?style=flat-square&logo=fortinet&logoColor=white" alt="Fortinet NSE 1"/>
+  <img src="https://img.shields.io/badge/Fortinet_NSE_2-EE3124?style=flat-square&logo=fortinet&logoColor=white" alt="Fortinet NSE 2"/>
+  <img src="https://img.shields.io/badge/Fortinet_NSE_3-EE3124?style=flat-square&logo=fortinet&logoColor=white" alt="Fortinet NSE 3"/>
+</p>
+
+---
+
 ### Tech stack (at a glance)
 
 **Automation & Orchestration**
@@ -85,6 +98,14 @@
 
 ---
 
+### Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NPFernando&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
 ### GitHub activity
 
 <p align="left">
@@ -108,6 +129,14 @@
   />
 </p>
 
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NPFernando&theme=github-compact&hide_border=true" alt="Contribution activity graph" />
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote" />
+</p>
+
 ---
 
 ### Connect
@@ -115,3 +144,5 @@
 - LinkedIn: [linkedin.com/in/naveen-fernando](https://www.linkedin.com/in/naveen-fernando)
 - Email: **fernandonaveen2000@gmail.com**
 - If you work with automation, MSP tooling, or cloud workflows and want to compare ideas or collaborate, say hi.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,100:0078D4&height=80&section=footer" alt="Footer banner" />
