@@ -1,6 +1,6 @@
 <!-- Profile README for github.com/NPFernando -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:4285F4&height=120&section=header&text=Naveen%20Fernando&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Automation%20%26%20Systems%20Engineer&descSize=16&descAlignY=58&descColor=d0e8ff" alt="Header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:4285F4&height=120&section=header" alt="Header banner" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Automation+%26+Systems+Engineer;Python+%7C+Rewst+%7C+n8n+%7C+Cloud;Building+reliable%2C+observable+automations" alt="Typing animation" />
