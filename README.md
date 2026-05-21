@@ -108,22 +108,6 @@ I prefer practical, repeatable environments: local-first development, Docker Com
 
 ---
 
-## Featured projects
-
-Public project links will be added here as portfolio repositories are prepared.
-
-| Project | Status | Focus | Stack |
-| --- | --- | --- | --- |
-| MSP Automation Workflow Lab | Planned / placeholder | Reusable MSP automation patterns, approvals, ticket updates, and reporting | Rewst, n8n, APIs, Jinja |
-| Microsoft 365 / Graph Automation Toolkit | Planned / placeholder | User, group, license, and reporting automation | Python, PowerShell, Microsoft Graph, Entra ID |
-| Ops Dashboard Lab | Planned / placeholder | Operational visibility for tickets, identity, cloud, and automation status | Python, Streamlit, APIs |
-| AI Agent Workflow Experiments | Planned / placeholder | AI-assisted development, autonomous coding workflows, and automation planning | Python, TypeScript, GitHub, CLI agents |
-| Dockerized Infrastructure Labs | Planned / placeholder | Local-first DevOps and service automation labs | Docker, WSL, Linux, CI/CD |
-
-No fake project links are listed. Repositories will be linked here when they are public and ready.
-
----
-
 ## Learning / AI-assisted development
 
 I use AI-assisted development as an engineering multiplier, not a replacement for understanding the system.
