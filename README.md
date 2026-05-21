@@ -136,17 +136,9 @@ Current areas of exploration:
 
 ## GitHub activity
 
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=NPFernando&show_icons=true&theme=github_dark&hide_border=true"
-    alt="GitHub Stats for NPFernando"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NPFernando&layout=compact&theme=github_dark&hide_border=true"
-    alt="Top Languages for NPFernando"
-    height="160"
-  />
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NPFernando&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats for NPFernando" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NPFernando&layout=compact&theme=github_dark&hide_border=true" alt="Top languages for NPFernando" />
 </p>
 
 ---
