@@ -1,148 +1,153 @@
 <!-- Profile README for github.com/NPFernando -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:4285F4&height=120&section=header" alt="Header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:4285F4&height=110&section=header" alt="Header banner" />
+
+<h1 align="center">Hi, I'm Naveen Fernando</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Automation+%26+Systems+Engineer;Python+%7C+Rewst+%7C+n8n+%7C+Cloud;Building+reliable%2C+observable+automations" alt="Typing animation" />
+  <strong>Automation and Systems Engineer</strong><br />
+  Workflow automation • MSP automation • Microsoft 365 • Cloud • DevOps • AI-assisted development
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/naveen-fernando" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:fernandonaveen2000@gmail.com"><img src="https://img.shields.io/badge/Email-fernandonaveen2000%40gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/NPFernando?tab=repositories"><img src="https://img.shields.io/badge/Repos-Explore-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NPFernando&color=blue&style=flat-square" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/naveen-fernando" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:fernandonaveen2000@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/NPFernando?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories" /></a>
 </p>
 
 ---
 
-### TL;DR
+## Short intro
 
-- I build reliable, observable automation for MSP and cloud teams.
-- Python + Rewst + n8n are my happy place; PowerShell when the stack demands it.
-- I like dashboards that make operations obvious: who's stuck, what's failing, what to fix first.
-- Based in Sri Lanka and open to remote collaboration.
+I build automation that connects systems, reduces manual work, and makes operations easier to support.
 
-> Open to: remote freelance, contract automation work, and MSP/cloud collaboration.
+My work focuses on MSP workflows, Microsoft 365 and identity automation, API integrations, cloud automation, dashboards, DevOps labs, and AI-assisted engineering workflows. I use GitHub to publish personal automation tools, scripts, infrastructure labs, AI-agent workflows, and portfolio-quality projects.
 
----
-
-### What I'm focusing on right now
-
-- Multi-tenant automation patterns for MSP workflows (Rewst, n8n)
-- Streamlit dashboards that aggregate RMM, identity, and ticket data
-- Cloud automation across Azure, AWS, and Google Cloud
-- Building guardrails: logging, error handling, and "safe defaults" in automations
+I care about practical engineering details: clear inputs and outputs, safe defaults, logging, testing, documentation, and workflows that can be maintained after the first successful run.
 
 ---
 
-### Playbook
+## Current focus
 
-1. **Discovery → Scoping**: map systems, owners, and failure modes.
-2. **Design → Build**: API integrations, event-driven workflows, and repeatable templates.
-3. **Test → Deploy**: staged rollouts with alerts and meaningful logs.
-4. **Optimize → Document**: measure friction, remove toil, and keep runbooks current.
-
----
-
-### Selected projects
-
-- **MSP Automation Workflows** *(private)* — End-to-end user onboarding/offboarding, license hygiene, and ticket automation using Rewst and n8n.
-- **Ops Dashboards** *(private)* — Streamlit views that combine M365, RMM, and ticketing data for support and leadership teams.
-- **Cloud Automation Scripts** *(private)* — Utilities that connect Azure/AWS/GCP services with identity and device management flows.
+- Building reusable automation patterns for MSP and IT operations workflows.
+- Automating Microsoft 365, Microsoft Graph, Entra ID, licensing, users, groups, and operational reporting.
+- Designing API and webhook-driven workflows with clear error handling and observability.
+- Creating dashboards and tools that make support queues, identity state, automation failures, and cloud resources easier to understand.
+- Improving local-first DevOps labs with WSL, Docker, GitHub, CI/CD, and repeatable documentation.
+- Exploring AI-assisted development and autonomous agent workflows for software delivery, automation design, and operational support.
 
 ---
 
-### Certifications
+## Tech stack
+
+### Languages and scripting
 
 <p>
-  <img src="https://img.shields.io/badge/Clean_Automation_Certified-Automation_Engineer-6A0DAD?style=flat-square&logo=checkmarx&logoColor=white" alt="Clean Automation Certified: Automation Engineer"/>
-  <img src="https://img.shields.io/badge/Foundations_Certified-Automation_Practitioner-6A0DAD?style=flat-square&logo=checkmarx&logoColor=white" alt="Foundations Certified: Automation Practitioner"/>
-  <img src="https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure Fundamentals AZ-900"/>
-  <img src="https://img.shields.io/badge/Fortinet_NSE_1-EE3124?style=flat-square&logo=fortinet&logoColor=white" alt="Fortinet NSE 1"/>
-  <img src="https://img.shields.io/badge/Fortinet_NSE_2-EE3124?style=flat-square&logo=fortinet&logoColor=white" alt="Fortinet NSE 2"/>
-  <img src="https://img.shields.io/badge/Fortinet_NSE_3-EE3124?style=flat-square&logo=fortinet&logoColor=white" alt="Fortinet NSE 3"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Jinja-B41717?style=flat-square&logo=jinja&logoColor=white" alt="Jinja" />
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" alt="YAML" />
+</p>
+
+### APIs and integration
+
+<p>
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Webhooks-FF6F00?style=flat-square&logo=webhook&logoColor=white" alt="Webhooks" />
+  <img src="https://img.shields.io/badge/Microsoft_Graph-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Graph" />
+  <img src="https://img.shields.io/badge/OAuth-3C3C3C?style=flat-square&logo=auth0&logoColor=white" alt="OAuth" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON" />
+</p>
+
+### Microsoft and identity
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white" alt="Microsoft 365" />
+  <img src="https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Entra ID" />
+  <img src="https://img.shields.io/badge/Azure_AD-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure AD" />
 </p>
 
 ---
 
-### Tech stack (at a glance)
-
-**Automation & Orchestration**
+## Automation platforms
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
-  <img src="https://img.shields.io/badge/Jinja-B41717?style=flat-square&logo=jinja&logoColor=white" alt="Jinja"/>
+  <img src="https://img.shields.io/badge/Rewst-Automation_Platform-6A0DAD?style=flat-square" alt="Rewst" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-**Cloud & Platforms**
+Areas I like working on:
+
+- User onboarding and offboarding workflows.
+- License assignment, cleanup, and reporting.
+- Ticket enrichment, routing, and operational notifications.
+- Approval workflows and webhook-triggered automation.
+- Identity, group, and access lifecycle automation.
+- Dashboards for automation visibility, failures, and follow-up actions.
+
+---
+
+## Cloud / DevOps
 
 <p>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/WSL-4D4D4D?style=flat-square&logo=linux&logoColor=white" alt="WSL" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
 </p>
 
-**Dashboards / Apps & Ops**
+I prefer practical, repeatable environments: local-first development, Docker Compose when useful, clear setup steps, `.env.example` files, documented validation commands, and simple deployment/runbook notes.
+
+---
+
+## Learning / AI-assisted development
+
+I use AI-assisted development as an engineering multiplier, not a replacement for understanding the system.
+
+Current areas of exploration:
+
+- Agent-assisted coding workflows for planning, implementation, testing, and review.
+- Automation design patterns for APIs, webhooks, retries, logging, and safe failure handling.
+- Practical DevOps labs using Docker, WSL, GitHub Actions, and local-first infrastructure.
+- Building portfolio-quality projects that combine automation, documentation, and verification steps.
+
+---
+
+## Certifications
 
 <p>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/Clean_Automation_Certified-Automation_Engineer-6A0DAD?style=flat-square&logo=checkmarx&logoColor=white" alt="Clean Automation Certified: Automation Engineer" />
+  <img src="https://img.shields.io/badge/Foundations_Certified-Automation_Practitioner-6A0DAD?style=flat-square&logo=checkmarx&logoColor=white" alt="Foundations Certified: Automation Practitioner" />
+  <img src="https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure Fundamentals AZ-900" />
+  <img src="https://img.shields.io/badge/Fortinet_NSE_1-EE3124?style=flat-square&logo=fortinet&logoColor=white" alt="Fortinet NSE 1" />
+  <img src="https://img.shields.io/badge/Fortinet_NSE_2-EE3124?style=flat-square&logo=fortinet&logoColor=white" alt="Fortinet NSE 2" />
+  <img src="https://img.shields.io/badge/Fortinet_NSE_3-EE3124?style=flat-square&logo=fortinet&logoColor=white" alt="Fortinet NSE 3" />
 </p>
 
 ---
 
-### Trophies
+## GitHub activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NPFernando&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NPFernando&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats for NPFernando" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NPFernando&layout=compact&theme=github_dark&hide_border=true" alt="Top languages for NPFernando" />
 </p>
 
 ---
 
-### GitHub activity
-
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=NPFernando&show_icons=true&theme=github_dark&hide_border=true"
-    alt="GitHub Stats for NPFernando"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NPFernando&layout=compact&theme=github_dark&hide_border=true"
-    alt="Top Languages for NPFernando"
-    height="160"
-  />
-</p>
-
-<p align="left">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=NPFernando&theme=github-dark&hide_border=true"
-    alt="GitHub Streak for NPFernando"
-    height="160"
-  />
-</p>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NPFernando&theme=github-compact&hide_border=true" alt="Contribution activity graph" />
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote" />
-</p>
-
----
-
-### Connect
+## Contact
 
 - LinkedIn: [linkedin.com/in/naveen-fernando](https://www.linkedin.com/in/naveen-fernando)
 - Email: **fernandonaveen2000@gmail.com**
-- If you work with automation, MSP tooling, or cloud workflows and want to compare ideas or collaborate, say hi.
+
+If you work with automation, MSP tooling, Microsoft 365, cloud workflows, APIs, or AI-assisted engineering and want to compare ideas or collaborate, feel free to reach out.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,100:0078D4&height=80&section=footer" alt="Footer banner" />
