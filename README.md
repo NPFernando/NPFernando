@@ -147,7 +147,6 @@ Current areas of exploration:
 
 - LinkedIn: [linkedin.com/in/naveen-fernando](https://www.linkedin.com/in/naveen-fernando)
 - Email: **fernandonaveen2000@gmail.com**
-- Portfolio / website: `<add portfolio link when ready>`
 
 If you work with automation, MSP tooling, Microsoft 365, cloud workflows, APIs, or AI-assisted engineering and want to compare ideas or collaborate, feel free to reach out.
 
