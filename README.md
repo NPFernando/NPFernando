@@ -108,6 +108,19 @@ I prefer practical, repeatable environments: local-first development, Docker Com
 
 ---
 
+## Featured projects
+
+| Project | What it demonstrates | Stack |
+|---|---|---|
+| [System Healthcheck](https://github.com/NPFernando/system-healthcheck) | Local-first WSL/Linux workstation security and readiness checks with static reports, history timelines, and cron-friendly alert behavior. | Bash, Python, unittest, Docker, GitHub Actions, Hermes Agent |
+| [ITOps-Toolkit](https://github.com/NPFernando/ITOps-Toolkit) | Practical local-first IT operations utilities for repeatable support workflows and diagnostics. | Python, CLI, pytest, ruff, GitHub Actions |
+| [n8n Community Node: text.lk SMS](https://github.com/NPFernando/n8n-nodes-textdotlk) | Reusable n8n integration for sending SMS via a local Sri Lankan SMS provider. | TypeScript, n8n, npm, text.lk API |
+| [Portfolio Site](https://portfolio.naveen.fernandofamily.com) | Static-first personal portfolio with typed content, CI/CD, and Azure Static Web Apps deployment. | React, TypeScript, Vite, Tailwind CSS, Azure Static Web Apps |
+
+More projects are being prepared around Microsoft 365 / Graph automation, MSP workflow labs, local DevOps infrastructure, and AI-agent-assisted engineering workflows.
+
+---
+
 ## Learning / AI-assisted development
 
 I use AI-assisted development as an engineering multiplier, not a replacement for understanding the system.
