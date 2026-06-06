@@ -156,6 +156,12 @@ Current areas of exploration:
 
 ---
 
+## Packages
+
+- [n8n-nodes-textdotlk](https://www.npmjs.com/package/n8n-nodes-textdotlk) — n8n community node package for Text.lk SMS, contact, group, and profile operations. Repository: [NPFernando/n8n-nodes-textdotlk](https://github.com/NPFernando/n8n-nodes-textdotlk).
+
+---
+
 ## Contact
 
 - LinkedIn: [linkedin.com/in/naveen-fernando](https://www.linkedin.com/in/naveen-fernando)
